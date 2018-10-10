@@ -36,7 +36,7 @@ Linux iZj6cf6x67njae75u07qsdZ 3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:
 #### 2.1 下载jdk
 我们去[官网](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)找到1.8版本，接受Licence并找到Linux64版本.
 
-![官网jdk版本信息](./imgs/官网jdk版本信息.png)
+![官网jdk版本信息](https://raw.githubusercontent.com/SilencedH/other/master/linux/Linux安装环境/imgs/官网jdk版本信息.png)
 
 进入要安装jdk文件的目录，运行下面下载命令。
 
